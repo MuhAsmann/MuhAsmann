@@ -9,8 +9,8 @@
 
 ## 🚀 Tech Stack & Expertise
 - **Mobile Development**: Flutter  
-- **Backend Development**: Golang, Python, DotNet
-- **Frontend Development**: JavaScript, TypeScript, Vue.js, React  
+- **Backend Development**: Golang, Nest,Python, DotNet
+- **Frontend Development**: TypeScript, Vue.js, React  
 - **ERP & Business Applications**: Odoo  
 - **Automation Testing**: Robot Framework  
 
