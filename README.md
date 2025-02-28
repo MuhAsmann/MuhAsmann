@@ -18,17 +18,6 @@
 <pictuter>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhAsmann&show_icons=true&locale=en&layout=compact" alt="MuhAsmann"/>
 </pictuter>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MuhAsmann&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MuhAsmann&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhAsmann&show_icons=true" />
-</picture>
 
 <picture>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph/?username=MuhAsmann&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
