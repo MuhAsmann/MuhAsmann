@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Asman!
 
 🎓 **Informatics Graduate**  
-🔧 **Engineer & Developer**  
+🔧 **Software Engineer & Developer**  
 💻 Passionate about building efficient, scalable, and user-centric solutions.
 
 ---
