@@ -14,7 +14,7 @@
 - **Mobile Development**: Flutter  
 - **Backend Development**: Golang, Nest, Python, .Net
 - **Frontend Development**: TypeScript, Vue.js, React, Svelte
-- **FullStack Development**: Codeigniter  
+- **FullStack Development**: Codeigniter, .NetBlazor  
 - **ERP & Business Applications**: Odoo  
 - **Automation Testing**: Robot Framework
 
