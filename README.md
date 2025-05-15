@@ -27,7 +27,36 @@
 //</pictuter>
 <-->
 
-![](https://nirzak-streak-stats.vercel.app/?user=muhasmann&theme=dark&hide_border=false)<br/>
+<!--![](https://nirzak-streak-stats.vercel.app/?user=muhasmann&theme=dark&hide_border=false)<br/> <-->
+
+
+<h3 align="center"><br> My GitHub Stats <br></h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=MuhAsmann&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ 
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhAsmann&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhAsmann&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhAsmann&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+
+
+### GitHub Contribution Chart
+<a href="https://github.com/MuhAsmann">
+    <img src="https://ghchart.rshah.org/MuhAsmann" alt="MuhAsman's GitHub Contribution Chart">
+</a>
 
 <picture>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph/?username=MuhAsmann&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
