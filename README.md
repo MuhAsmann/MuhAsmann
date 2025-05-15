@@ -1,3 +1,5 @@
+![Totals Hits](https://komarev.com/ghpvc/?username=MuhAsmann&style=flat&color=red&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/MuhAsmann?label=Follow&style=social)](https://github.com/MuhAsmann) 
 
 # 👋 Hi, I'm [Asman](https://muhasmann.github.io/infomee)!
 
