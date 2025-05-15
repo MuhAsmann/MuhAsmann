@@ -35,7 +35,9 @@
 <div align="center">
  
   <img src="https://streak-stats.demolab.com/?user=MuhAsmann&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
- 
+ <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhAsmann&custom_title=MuhAsman's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
 <div align="center">
 <table>
   <tr>
@@ -58,8 +60,8 @@
     <img src="https://ghchart.rshah.org/MuhAsmann" alt="MuhAsman's GitHub Contribution Chart">
 </a>
 
-<picture>
+<!--<picture>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph/?username=MuhAsmann&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
 </picture>
-
+--->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
