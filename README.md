@@ -55,10 +55,10 @@
 
 
 
-### GitHub Contribution Chart
+<!-- ### GitHub Contribution Chart
 <a href="https://github.com/MuhAsmann">
     <img src="https://ghchart.rshah.org/MuhAsmann" alt="MuhAsman's GitHub Contribution Chart">
-</a>
+</a> -->
 
 <!--<picture>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph/?username=MuhAsmann&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
