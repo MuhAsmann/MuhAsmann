@@ -1,7 +1,13 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=MuhAsmann&style=flat&color=red&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/MuhAsmann?label=Follow&style=social)](https://github.com/MuhAsmann) 
 
-# 👋 Hi, I'm [Asman](https://muhasmann.github.io/infomee)!
+<!-- # 👋 Hi, I'm [Asman](https://muhasmann.github.io/infomee)! -->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=0785fb&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Asman+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="asmam's banner" />
+  </a>
+</h1>
 
 🎓 **Informatics Graduate**  
 🔧 **Software Engineer & Developer**  
