@@ -1,73 +1,73 @@
-![Totals Hits](https://komarev.com/ghpvc/?username=MuhAsmann&style=flat&color=red&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/MuhAsmann?label=Follow&style=social)](https://github.com/MuhAsmann) 
-
-<!-- # 👋 Hi, I'm [Asman](https://muhasmann.github.io/infomee)! -->
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=0785fb&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Asman+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="asmam's banner" />
-  </a>
-</h1>
-
-🎓 **Informatics Graduate**  
-🔧 **Software Engineer & Developer**  
-💻 Passionate about building efficient, scalable, and user-centric solutions.
-
---- 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muh_asmann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muh-asmann) 
-
-
-## 🚀 Tech Stack & Expertise
-- **Mobile Development**: Flutter  
-- **Backend Development**: Golang, Nest, Python, .Net
-- **Frontend Development**: TypeScript, Vue.js, React, Svelte
-- **FullStack Development**: Codeigniter, Laravel, .NetBlazor  
-- **ERP & Business Applications**: Odoo  
-- **Automation Testing**: Robot Framework
-
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
- <!-- <pictuter>
-   // <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhAsmann&show_icons=true&locale=en&layout=compact" alt="MuhAsmann"/>
-//</pictuter>
-<-->
-
-<!--![](https://nirzak-streak-stats.vercel.app/?user=muhasmann&theme=dark&hide_border=false)<br/> <-->
-
-
-<h3 align="center"><br> My GitHub Stats <br></h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00f5ff&height=220&section=header&text=MUH%20ASMAN&fontSize=70&fontColor=00f5ff&fontAlignY=40&desc=%3E%20Software%20Engineer%20%7C%20Backend%20%C2%B7%20Mobile%20%C2%B7%20Automation&descSize=18&descAlignY=65&animation=fadeIn" alt="header" />
 
 <div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=MuhAsmann&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
- <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhAsmann&custom_title=MuhAsman's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=640&height=40&lines=%3E+initializing+asman.exe+...;%3E+Building+scalable+systems+%E2%9A%A1;%3E+Golang+%C2%B7+NestJS+%C2%B7+Flutter+%C2%B7+Vue;%3E+Turning+coffee+into+clean+code+%E2%98%95)](https://git.io/typing-svg)
+
+![Views](https://komarev.com/ghpvc/?username=MuhAsmann&style=for-the-badge&color=00f5ff&labelColor=0f0c29&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/MuhAsmann?label=FOLLOW&style=for-the-badge&logo=github&color=7b2ff7&labelColor=0f0c29)](https://github.com/MuhAsmann)
+[![Instagram](https://img.shields.io/badge/Instagram-muh__asmann-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29)](https://instagram.com/muh_asmann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muh--asmann-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/muh-asmann)
+
+</div>
+
+## `> whoami`
+
+```ts
+const asman = {
+  role:    "Software Engineer & Developer",
+  edu:     "Informatics Graduate 🎓",
+  mission: "Build efficient, scalable, user-centric solutions",
+  stack:   ["Go", "NestJS", "TypeScript", "Flutter", "Odoo"],
+  status:  "online ⚡",
+};
+```
+
+## `> ls ./tech-stack`
+
 <div align="center">
+
+| Sector | Modules |
+|:--|:--|
+| 📱 **Mobile** | Flutter |
+| ⚙️ **Backend** | Golang · NestJS · Python · .NET |
+| 🖥️ **Frontend** | TypeScript · Vue.js · React · Svelte |
+| 🧩 **Full-Stack** | CodeIgniter · Laravel · .NET Blazor |
+| 🏢 **ERP** | Odoo |
+| 🤖 **Automation** | Robot Framework |
+
+<img src="https://skillicons.dev/icons?i=go,nestjs,ts,js,py,dotnet,cs,dart,flutter,php,java&theme=dark" alt="languages & backend" /><br>
+<img src="https://skillicons.dev/icons?i=vue,react,svelte,nextjs,nuxt,laravel,codeigniter,flask,express,bootstrap,sass,html,css&theme=dark" alt="frontend & frameworks" /><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,supabase,prisma,nginx,apache,vercel,heroku,git,github,figma,blender&theme=dark" alt="data & tools" />
+
+</div>
+
+## `> stats --live`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=MuhAsmann&theme=radical&hide_border=true&background=0f0c2900" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhAsmann&custom_title=Contribution%20Matrix&hide_border=true&bg_color=0f0c29&color=00f5ff&line=7b2ff7&point=00f5ff&area_color=7b2ff7&area=true&title_color=00f5ff&radius=12" alt="Activity Graph" />
+
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhAsmann&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhAsmann&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhAsmann&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhAsmann&hide=html&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="Top Languages" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhAsmann&theme=radical&hide_border=true" alt="Repos Per Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhAsmann&theme=radical&hide_border=true" alt="Most Commit Language" /></td>
   </tr>
 </table>
 
+</div>
 
+## `> run snake.exe`
 
-<!-- ### GitHub Contribution Chart
-<a href="https://github.com/MuhAsmann">
-    <img src="https://ghchart.rshah.org/MuhAsmann" alt="MuhAsman's GitHub Contribution Chart">
-</a> -->
-
-<!--<picture>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph/?username=MuhAsmann&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="JawherKl"/>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhAsmann/MuhAsmann/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhAsmann/MuhAsmann/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/MuhAsmann/MuhAsmann/output/github-snake.svg" />
 </picture>
---->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" />
